@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Project 1">
+</Property><Property Name="Solution File" Value="\\psf\Home\Downloads\Project1-Skeleton\Project 1.sln">
+</Property><Property Name="Date" Value="Wednesday, October 03, 2012">
+</Property><Property Name="Time" Value="16:27:38 PM">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="Project 1" Source="Project 1.vcproj" Description="Converting project file '\\psf\Home\Downloads\Project1-Skeleton\Project 1.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Project 1" Source="Project 1.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Project 1" Source="Project 1.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Project 1" Source="Project 1.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="Project 1" Source="Project 1.vcproj" Description="Done converting to new project file '\\psf\Home\Downloads\Project1-Skeleton\Project 1.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Project 1" Source="Project 1.vcproj" Description="Converted">
+</Event></UpgradeLog>
